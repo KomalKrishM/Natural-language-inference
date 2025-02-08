@@ -1,1 +1,1 @@
-This repository is an implementation of inferring the relation between two sentences premise and hypothesis as contradiction, entailment, and neutral on the Stanford Natural Language Inference dataset using BiLSTM and NLTK toolkit.
+This repository is an implementation of inferring the relation between two sentences, premise and hypothesis, of the Stanford Natural Language Inference dataset as a contradiction, entailment, and neutral using BiLSTM and NLTK toolkit.
